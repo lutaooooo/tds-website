@@ -1,0 +1,120 @@
+#bannerText{
+    font-size: 70px;
+}
+
+.descText{
+    font-size: 20px;;
+}
+
+#customer_info input{
+    border:1px solid rgb(60,60,60);
+    border-radius: 4px;
+    background-color: black;
+}
+
+#customer_info{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.customer_info_line {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    width:400px;
+}
+
+.customer_info_line span{
+    width: 90px;
+ 
+}
+
+.customer_info_line input{
+    width: 250px;
+    height:30px;
+    background-color: black;
+    color:rgb(201,201,201);
+}
+
+.customer_info_line button{
+    width: 90px;
+    height:30px;
+    border-radius: 8px;
+    background-color: rgb(40,40,40);
+    color:rgb(201,201,201);
+}
+
+.customer_info_line button:hover{
+    width: 90px;
+    height:30px;
+    border-radius: 8px;
+    background-color: rgb(60,60,60);
+    color:rgb(201,201,201);
+}
+
+
+#msgBox {
+    position: absolute;
+    top: 200px;
+    width: auto;
+    height: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    text-align: center;
+    background-color: rgb(200, 100, 100);
+    border-radius: 10px;
+    color: #ffffff;
+    display: none;
+    padding: 5px;
+    font-size: 20px;
+    z-index: 9999;
+  }
+
+
+.banner-txt-1 {
+    background-image: linear-gradient(to left , rgb(0, 140, 255), rgb(4, 249, 200));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.banner-txt-2 {
+    background-image: linear-gradient(to right, rgb(250, 250, 250), rgb(156, 155, 156));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 30px;
+}
+
+.banner-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 3vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    background-color: rgb(40,40,40);
+    color:rgb(231,231,231);
+    background-image: linear-gradient(to top , rgb(39, 38, 38), rgb(8, 8, 8));
+}
+
+.desc-info{
+    color:rgb(230,230,230);
+    font-size:17px;
+    margin-top: 10px;;
+}
+
+#header{
+    width: 100%;
+    background-image: linear-gradient(to top , rgb(39, 38, 38), rgb(8, 8, 8));
+    color:rgb(230,230,230);
+}

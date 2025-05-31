@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1779.575mm"
+   height="682.64246mm"
+   viewBox="0 0 1779.575 682.64246"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="dataServer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="6895.7053"
+       y="1841.3061"
+       width="161.22035"
+       height="158.39192"
+       id="rect54395" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path34734" />
+    </marker>
+    <rect
+       x="1420"
+       y="428"
+       width="924"
+       height="68"
+       id="rect32896" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1322" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect876" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="346.04917"
+       height="15.341504"
+       id="rect837-7-7-5-5-9-4-1-5" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect956" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect993" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-5" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1034" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect837-7-7-5-5-9-4-1-8-2" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1099" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect837-7-7-5-5-9-4-1-8-2-1" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect1160" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect837-7-7-5-5-9-4-1-8-2-1-3" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect1232" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect837-7-7-5-5-9-4-1-8-2-6" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect1267" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect837-7-7-5-5-9-4-1-8-2-6-7" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect1339" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="149.05956"
+       height="15.783582"
+       id="rect837-7-7-5-5-9-4-1-5-1" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="149.05956"
+       height="15.783582"
+       id="rect982" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1043" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-7" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1082" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1127" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8-8" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1171" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="251.34401"
+       height="57.853931"
+       id="rect837-7-7-5-5-9-4-1-8-2-9" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect1259" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-81" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect1930" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect837-7-7-5-5-9-4-1-8-2-3" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect1967" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect837-7-7-5-5-9-4-1-8-2-65" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect2069" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect837-7-7-5-5-9-4-1-8-2-65-3" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="126.76419"
+       height="27.964693"
+       id="rect2151" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8-8-6" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect2202" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8-8-6-2" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect2239" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect837-7-7-5-5-9-4-1-8-2-6-7-9" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect2336" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect837-7-7-5-5-9-4-1-8-2-6-7-9-7" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect2393" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect837-7-7-5-5-9-4-1-8-2-6-7-9-7-3" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="160.90048"
+       height="34.116638"
+       id="rect2428" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8-8-6-0" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect2465" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8-8-6-2-3" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect2468" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-8-8-8-6-0-1" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect2563" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-52" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="149.05956"
+       height="15.783582"
+       id="rect837-7-7-5-5-9-4-1-5-1-8" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-52-6" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="149.05956"
+       height="15.783582"
+       id="rect837-7-7-5-5-9-4-1-5-1-8-0" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="90.645676"
+       height="19.983965"
+       id="rect837-7-7-5-5-9-4-1-8-3" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="149.05956"
+       height="15.783582"
+       id="rect837-7-7-5-5-9-4-1-5-1-7" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="149.05956"
+       height="15.783582"
+       id="rect837-7-7-5-5-9-4-1-5-1-7-8" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="346.04916"
+       height="15.341504"
+       id="rect837-7-7-5-5-9-4-1-5-0" />
+    <rect
+       x="27.970238"
+       y="122.84226"
+       width="267.69655"
+       height="82.337037"
+       id="rect837-7-7-5-5-9-4-1-5-1-7-8-1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="4603.2651"
+     inkscape:cy="1467.9537"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.266472,-245.58983)">
+    <rect
+       style="fill:#0055f1;fill-opacity:1;stroke:#0055f1;stroke-width:7.06463;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833-3-7-5-8-5"
+       width="465.31244"
+       height="44.685238"
+       x="638.29102"
+       y="415.05725" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.2115587,0,0,2.3812711,743.90157,131.76997)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70250">dataServer</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 865.11369,621.09863 -8.0919,11.74702 8.3358,11.52553 7.9539,-11.51373 z"
+       id="path1651"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.494265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 865.35759,644.37118 -0.6562,48.04614"
+       id="path1653" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.07273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 421.82534,462.02177 212.40344,0.23625"
+       id="path1653-7"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0055f1;stroke-width:11.7939;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833-3-7-5-8-5-51"
+       width="460.0835"
+       height="125.95336"
+       x="640.31213"
+       y="463.10294" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-3"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-5);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.3068406,0,0,1.6928098,610.40265,264.36)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70252">vector&lt;std::shared_ptr&lt;TDS_SESSION&gt;&gt; m_vecTdsSession;</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-3-2"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-5-0);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.3068406,0,0,1.6928098,634.32399,288.59922)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70254">statusChange_tcpSrv</tspan></text>
+    <rect
+       style="fill:#0055f1;fill-opacity:1;stroke:none;stroke-width:5.17908;stroke-linejoin:round"
+       id="rect833-3-7-5-8-5-5-3"
+       width="203.95399"
+       height="54.789791"
+       x="765.37335"
+       y="701.65924" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-2"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-8);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.2115587,0,0,2.3812711,743.36193,423.0388)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70256">tcpServer</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.15387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1108.8955,459.74245 11.0087,7.32486 10.4726,-8.0146 -10.7905,-7.20048 z"
+       id="path1651-7-4"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.53347px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1130.3802,459.05439 59.3295,-0.34427"
+       id="path1653-7-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.15387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 969.32741,756.44904 11.0087,7.32486 10.4726,-8.0146 -10.7905,-7.20048 z"
+       id="path1651-7-4-1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.958156px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 990.80871,755.7593 199.08549,-0.33097"
+       id="path1653-7-4-2" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0055f1;stroke-width:4.78507;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833-3-7-5-8-5-51-7"
+       width="200.17825"
+       height="47.652996"
+       x="767.76837"
+       y="756.4491" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-3-9"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-5-1);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.5454446,0,0,1.7091511,767.768,560.09766)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70258">pushStream()</tspan></text>
+    <rect
+       style="fill:#0055f1;fill-opacity:1;stroke:none;stroke-width:5.17908;stroke-linejoin:round"
+       id="rect833-3-7-5-8-5-5-3-60"
+       width="203.95399"
+       height="54.789791"
+       x="1189.7095"
+       y="403.92035" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-2-5"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-8-52);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.2115587,0,0,2.3812711,1147.59,124.24157)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70260">TDS_SESSION</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0055f1;stroke-width:4.78507;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833-3-7-5-8-5-51-7-5"
+       width="200.17825"
+       height="47.652996"
+       x="1192.1045"
+       y="458.71017" />
+    <rect
+       style="fill:#0055f1;fill-opacity:1;stroke:none;stroke-width:5.17908;stroke-linejoin:round"
+       id="rect833-3-7-5-8-5-5-3-60-5"
+       width="203.95399"
+       height="54.789791"
+       x="1192.2498"
+       y="700.46368" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-2-5-5"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-8-52-6);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.2115587,0,0,2.3812711,1150.1301,420.78492)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70262">TCP_SESSION</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0055f1;stroke-width:4.78507;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833-3-7-5-8-5-51-7-5-0"
+       width="200.17825"
+       height="47.652996"
+       x="1194.6448"
+       y="755.25348" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.15387;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1300.013,508.31491 -7.5188,10.87712 7.8277,10.61303 7.3906,-10.66116 z"
+       id="path1651-7-4-6"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.504768px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1300.321,529.80964 0.039,170.09137"
+       id="path1653-7-4-4"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#0055f1;fill-opacity:1;stroke:none;stroke-width:5.17908;stroke-linejoin:round"
+       id="rect833-3-7-5-8-5-5-3-5"
+       width="203.95399"
+       height="54.789791"
+       x="217.87137"
+       y="407.23199" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-2-51"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-8-3);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.2115587,0,0,2.3812711,188.45159,128.61152)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70264">httpHandler</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0055f1;stroke-width:4.78507;stroke-linejoin:round;stroke-opacity:1"
+       id="rect833-3-7-5-8-5-51-7-59"
+       width="200.17825"
+       height="47.652996"
+       x="220.26639"
+       y="462.02182" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-3-9-1"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-5-1-7);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.5454446,0,0,1.7091511,206.50766,265.67038)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70266">process_request()</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-3-9-1-6"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-5-1-7-8);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.5454446,0,0,1.7091511,214.68945,158.94408)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70268">使用httplib实现</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,38.266472,245.58983)"
+       id="text32894"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;line-height:125%;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect32896)" />
+    <text
+       xml:space="preserve"
+       id="text835-3-1-03-2-1-4-9-3-9-1-6-9"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect837-7-7-5-5-9-4-1-5-1-7-8-1);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.5454446,0,0,1.7091511,1360.8882,390.04796)"><tspan
+         x="27.970703"
+         y="132.49726"
+         id="tspan70270">tcp连接断开时,
+</tspan><tspan
+         x="27.970703"
+         y="145.99293"
+         id="tspan70272">1.先回调 statusChange,通知哪个tcpSession对象断开,</tspan><tspan
+         x="27.970703"
+         y="159.48859"
+         id="tspan70274">2.dataServer从列表中删除对应的TDS_SESSION
+</tspan><tspan
+         x="27.970703"
+         y="172.98426"
+         id="tspan70276">3.TDS_SESSION将内部的TCP_SESSION指针置为空
+</tspan><tspan
+         x="27.970703"
+         y="186.47993"
+         id="tspan70278">tcpSession指针增加互斥保护
+</tspan><tspan
+         x="27.970703"
+         y="199.97559"
+         id="tspan70280">4.tcpServer删除tcpSession对象
+</tspan><tspan
+         x="27.970703"
+         y="214.83515"
+         id="tspan70288"><tspan
+           dx="0 10.5833 10.5833 10.5833"
+           id="tspan70282">而后删除</tspan><tspan
+           dx="10.5833 4.1702728 5.513855 6.5938911 7.2346802 6.3045044 5.513855 5.513855 2.9042091 6.4233627"
+           id="tspan70284">tcpSession</tspan><tspan
+           dx="6.6972466 10.583298"
+           id="tspan70286">对象</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,38.266472,245.58983)"
+       id="text54393"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;line-height:125%;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect54395)" />
+  </g>
+</svg>

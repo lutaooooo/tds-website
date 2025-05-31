@@ -1,0 +1,24 @@
+#page_contact_inner{
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+#page_contact_inner .left{
+    height: 45%;
+    width: 20%;
+}
+
+#page_contact_inner .left .img_contact{
+    height: 100%;
+    width: 100%;
+}
+
+.company_wechat{
+    height: 220px;
+    width: 180px;
+}
+

@@ -1,0 +1,360 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>杭州良途软件科技有限公司</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style-pc.css" mode="pc">
+    <link rel="stylesheet" href="./style-m.css" mode="mobile">
+</head>
+
+<body style="overflow: hidden;">
+    <!-- header begin -->
+    <div id="header"
+        style="height:6vh; position: absolute;top: 0px;left:0px;display: flex;background-color: rgb(239,243,252);align-items: center;">
+        <div class="logo" style="margin-left: 2vw;">
+            <img style="width: 25px;height: 25px;" id="company_logo" src="./assets/logo.svg" />
+        </div>
+        <div
+            style="padding-top:4px;font-size:15px; font-weight:700;display: flex;justify-content: space-around;width: 300px;">
+            <a id="nav_tds">产品</a>
+            <!--
+            <a id="nav_service">服务</a>
+            
+            <a id="nav_solution" >专业版</a>
+            -->
+            <a id="nav_docs">文档</a>
+            <a id="nav_download">资源</a>
+            <a id="nav_contact">关于</a>
+        </div>
+    </div>
+    <!-- header end -->
+    <div style="position: absolute;left:0px;top:6vh;bottom:0px;width:100%;overflow: hidden;">
+        <div class="page" id="page_tds" style="  overflow: auto;">
+            <!-- banner begin -->
+            <div
+                style=" height: 100%;width: 100%; position: relative;background-image: url(./banner.jpg);background-size:100% 100%;">
+                <div
+                    style=" height: 100%;width: 50%; position: absolute; right:3vh;display: flex;flex-direction: column; align-items: center;justify-content: space-around;">
+                    <div style="height: 5vh;"></div>
+                    <div id="bannerText"
+                        style="display: flex;align-items: center;justify-content: center;flex-flow: wrap;">
+                        <div class="banner-txt-1" style="font-size: 50px;">最轻便的</div>
+                        <div class="banner-txt-2" style="font-size: 50px;">物联网组态软件</div>
+                    </div>
+                    <div class="banner-txt-1" style="font-size: 50px;"><span>T</span><span class="banner-txt-2"
+                            style="font-size: 50px;">DS</span></div>
+                    <div style="height: 30px;"></div>
+                    <div class="descText" style="color:rgb(210,210,220)">6mb程序包，6秒安装。面向本地独立部署、私有云模式部署设计</div>
+                    <div class="descText" style="color:rgb(210,210,220)">短、平、快的小微物联系统通用监控软件，赋能行业解决方案快速实现</div>
+                    <div style="height: 30px; color:rgb(210,210,220)">
+                        <span>
+                            最新版：
+                            <span class="TDSLatestVersion"></span>
+                            ;&nbsp;&nbsp;
+                        </span>
+                        <span class="generateTime"></span>
+                    </div>
+                    <div style="display: flex;align-items: center;justify-content: center;flex-wrap: wrap;">
+
+                        <a class="banner-btn" href="https://gitee.com/liangtuSoft/tds" target="_blank">
+                            开源版本
+                        </a>
+
+                        <a class="banner-btn"
+                            href="https://www.bilibili.com/video/BV1sV4y1W7PX/?vd_source=3b5c83dc2775dbd078466c5fe0eed7de"
+                            target="_blank">
+                            快速了解
+                        </a>
+
+                        <a class="banner-btn" href="https://liangtusoft.yuque.com/r/organizations/homepage"
+                            target="_blank">
+                            帮助中心
+                        </a>
+
+                        <div class="banner-btn" onclick="onClickTryTds()">
+                            下载使用
+                        </div>
+                        <div style="font-size: 10px;width:80px;height: 80px;position: relative;">
+                            <div
+                                style="width:100%;position: absolute;bottom:-20px;display: flex;justify-content: center;color:rgb(201,201,201)">
+                                微信视频号</div>
+                            <img style="width:100%;height: 100%;opacity: 0.8;" src="./assets/images/tds视频号.png"></img>
+                        </div>
+                    </div>
+                    <div style="height: 8vh;"></div>
+                </div>
+            </div>
+            <!-- banner end -->
+
+            <!-- tds概览 -->
+            <div style="background-color: rgb(30,30,30);">
+                <div style="height: 7vh;"></div>
+                <div style="display: flex;align-items: center;justify-content: space-around;flex-flow: wrap;">
+                    <div style="width:500px;padding-left: 5vw;padding-right: 5vw;padding-top:5vw;">
+                        <img style="width:100%;border-radius: 10px;box-shadow: 0px 0px 10px #666666;"
+                            src="assets/tdsOverview2.png" alt="banner image">
+                    </div>
+                    <div style="width: 600px;">
+                        <div class="title" style="display: flex;align-items: center;justify-content: center;">
+                            <div class="banner-txt-1"
+                                style=" font-size: 5vh;padding-left: 5vw;padding-right: 5vw;padding-top: 5vh;">功能特性
+                            </div>
+                        </div>
+                        <div style="height: 3vh;"></div>
+                        <div style="padding-left: 5vw;padding-right: 5vw; font-size:3vh;color:rgb(110,110,110)">
+                            <div><span class="banner-txt-1">轻便化</span></div>
+                            <div class="desc-info">仅一个6mb可执行文件，免安装，无依赖，解压即运行</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">一体化</span></div>
+                            <div class="desc-info">Web服务器,时序数据库,设备通信驱动一体化集成</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">工程易用性</span></div>
+                            <div class="desc-info">Web端进行组态与低代码开发，快速构建个性化物联网数据中台</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 7vh;"></div>
+            </div>
+
+            <!-- 硬件协议接入 -->
+            <div style="background-color: black">
+                <div style="height: 7vh;"></div>
+                <div style="display: flex;align-items: center;justify-content: space-around;flex-flow: wrap;">
+                    <div style="width:550px;padding-left: 5vw;padding-right: 5vw;padding-top:5vw;">
+                        <img style="background-image: linear-gradient(to left , rgb(80, 81, 82), rgb(128, 143, 140));width:100%;border-radius: 10px;box-shadow: 0px 0px 10px #666666;"
+                            src="assets/device_protocol.svg" alt="banner image">
+                    </div>
+                    <div style="width: 600px;">
+                        <div class="title" style="display: flex;align-items: center;justify-content: center;">
+                            <div class="banner-txt-1"
+                                style="font-size: 5vh;padding-left: 5vw;padding-right: 5vw;padding-top: 5vh;">硬件协议接入
+                            </div>
+                        </div>
+                        <div style="height: 3vh;"></div>
+                        <div style="padding-left: 5vw;padding-right: 5vw; font-size:3vh;color:rgb(110,110,110)">
+                            <div><span class="banner-txt-1">混合接入</span></div>
+                            <div class="desc-info">支持传感类设备和视频设备协议统一接入</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">模板化</span></div>
+                            <div class="desc-info">将设备接入配置保存为模板，在项目中快速应用</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">脚本化扩展</span></div>
+                            <div class="desc-info">在设备接入框架中使用javaScript脚本扩展行业专用协议</div>
+                            <div style="height:3vh;"></div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 7vh;"></div>
+            </div>
+
+            <!-- tdb数据库 -->
+            <div style="background-color: rgb(30,30,30);">
+                <div style="height: 7vh;"></div>
+                <div style="display: flex;align-items: center;justify-content: space-around;flex-flow: wrap;">
+                    <div style="width:550px;padding-left: 5vw;padding-right: 5vw;padding-top:5vw;">
+                        <img style="width:100%;border-radius: 10px;box-shadow: 0px 0px 10px #666666;"
+                            src="assets/tds_vs_mysql.png" alt="banner image">
+                    </div>
+                    <div style="width: 600px;">
+                        <div class="title" style="display: flex;align-items: center;justify-content: center;">
+                            <div class="banner-txt-1"
+                                style="font-size: 5vh;padding-left: 5vw;padding-right: 5vw;padding-top: 5vh;">内置时序数据库
+                            </div>
+                        </div>
+                        <div style="height: 3vh;"></div>
+                        <div style="padding-left: 5vw;padding-right: 5vw; font-size:3vh;color:rgb(110,110,110)">
+                            <div><span class="banner-txt-1">一体化应用</span></div>
+                            <div class="desc-info">使用同一套WebAPI接口，查询、统计实时与历史数据，返回json格式结果</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">面向物联网</span></div>
+                            <div class="desc-info">为物联网时序数据针对性设计的数据库系统，在专用场景下，可以做到比mysql更高的性能</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">简单够用</span></div>
+                            <div class="desc-info">以极简、方便、工程易用性为设计目标的基于JSON的文件型数据库</div>
+                            <div style="height:3vh;"></div>
+                            <a style="font-size: 1vw;color:rgb(150,150,150);"
+                                href="/doc/#/tds-vs-mysql">查看tdb与mysql对比测试报告</a>
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 7vh;"></div>
+            </div>
+
+
+            <!-- tds-edge边缘网关 -->
+            <div style="background-color: black;">
+                <div style="height: 7vh;"></div>
+                <div style="display: flex;align-items: center;justify-content: space-around;flex-flow: wrap;">
+                    <div style="width:550px;padding-left: 5vw;padding-right: 5vw;padding-top:5vw;">
+                        <img style="width:100%;border-radius: 10px;box-shadow: 0px 0px 10px #666666;"
+                            src="assets/tds-edge.png" alt="banner image">
+                    </div>
+                    <div style="width: 600px;">
+                        <div class="title" style="display: flex;align-items: center;justify-content: center;">
+                            <div class="banner-txt-1"
+                                style="font-size: 5vh;padding-left: 5vw;padding-right: 5vw;padding-top: 5vh;">
+                                TDS-Edge边缘网关</div>
+                        </div>
+                        <div style="height: 3vh;"></div>
+                        <div style="padding-left: 5vw;padding-right: 5vw; font-size:3vh;color:rgb(110,110,110)">
+                            <div><span class="banner-txt-1">边缘自治服务</span></div>
+                            <div class="desc-info">可以脱离云端运行，实现功能完善、完全自治的边缘端系统</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1"> 云端统一管理</span></div>
+                            <div class="desc-info">云端统一进行Edge设备管理，并实现数据汇聚</div>
+                            <div style="height:3vh;"></div>
+                            <div><span class="banner-txt-1">本地控制</span></div>
+                            <div class="desc-info">全Web端设备接入组态，基于javaScript的自动控制脚本</div>
+                            <div style="height:3vh;"></div>
+                        </div>
+                    </div>
+                </div>
+                <div style="height: 7vh;"></div>
+            </div>
+
+            <div
+                style="padding-top:3vh;padding-bottom: 2vh; display: flex; flex-direction: column; align-items: center;justify-content: center;background-color: rgb(40,50,40);font-size: 1.6vh;color: rgb(201,201,201);">
+                <div style="display: flex;flex-wrap: wrap;justify-content: center;">
+                    <div>Copyright © 2023 www.liangtusoft.com All Rights Reserved&nbsp;&nbsp;</div>
+                    <div>杭州良途软件科技有限公司</div>
+                </div>
+                <div onclick="onClickICPBeian()" style="color:rgb(201,201,255)">浙ICP备2020037629号-1</div>
+            </div>
+        </div>
+
+        <div class="page" id="page_service" style="display:none;">
+            <!-- banner begin -->
+            <div
+                style="height: 100%; display: flex;flex-direction: column; align-items: center;justify-content: space-around;">
+                <div style="height: 5vh;"></div>
+                <div
+                    style="font-size: 70px; display: flex;align-items: center;justify-content: center;flex-flow: wrap;">
+                    <div>专注物联网开发与集成</div>
+                </div>
+                <div style="font-size: 30px;">以用户需求为引领，以硬核技术为驱动</div>
+                <div style="height: 30px;"></div>
+                <div style="font-size:20px;color:rgb(110,110,110)">为用户构建行业物联网SAAS平台，提供智能建筑、数智园区、能耗监测解决方案</div>
+                <div style="height: 50px;"></div>
+                <div style="display: flex;align-items: center;justify-content: center;flex-wrap: wrap;">
+
+                </div>
+                <div style="height: 8vh;"></div>
+            </div>
+            <!-- banner end -->
+
+            <!-- 三种类型数据服务 -->
+            <div class="process" style="height: 60%;background-color: rgb(239,243,252);">
+                <div class="row justify-content-center">
+                    <div class="col-xl-8 col-lg-10">
+                        <div class="heading">
+                            <h2>行业物联网系统定制开发</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-around" style="display: flex;align-items:center;
+                justify-content:space-around">
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6" style="width: 20%;">
+                        <div class="part-box after">
+                            <div class="part-img">
+                                <img src="assets/images/process-1.png" alt="how it's">
+                            </div>
+                            <div class="part-txt">
+                                <h3>硬件通信接入开发</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6" style="width: 20%;">
+                        <div class="part-box after">
+                            <div class="part-img">
+                                <img src="assets/images/process-2.png" alt="how it's">
+                            </div>
+                            <div class="part-txt">
+                                <h3>数据分析与算法开发</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6" style="width: 20%;">
+                        <div class="part-box">
+                            <div class="part-img">
+                                <img src="assets/images/process-3.png" alt="how it's">
+                            </div>
+                            <div class="part-txt">
+                                <h3>可视化图表，大屏开发</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div
+                style="padding-top:3vh;padding-bottom: 2vh; display: flex; flex-direction: column; align-items: center;justify-content: center;background-color: rgb(40,50,40);font-size: 1.6vh;color: rgb(201,201,201);">
+                <div style="display: flex;flex-wrap: wrap;justify-content: center;">
+                    <div>Copyright © 2022 www.liangtusoft.com All Rights Reserved&nbsp;&nbsp;</div>
+                    <div>杭州良途软件科技有限公司</div>
+                </div>
+                <div onclick="onClickICPBeian()" style="color:rgb(201,201,255)">浙ICP备2020037629号-1</div>
+            </div>
+        </div>
+
+        <div class="page" id="page_solution" style="display:none;">
+            <iframe src="./tdspro/index.html" height="100%" width="100%"></iframe>
+        </div>
+
+        <div class="page" id="page_doc" style="display:none;  overflow: hidden;">
+            <iframe src="./doc/index.html" height="100%" width="100%"></iframe>
+        </div>
+
+        <div class="page" id="page_download" style="display:none;overflow: hidden;">
+            <iframe src="/app/fms" height="100%" width="100%"></iframe>
+        </div>
+
+        <div class="page" id="page_contact" style="display:none;overflow: hidden;">
+            <iframe src="./about/index.html" height="100%" width="100%"></iframe>
+        </div>
+    </div>
+
+
+    <div id="customer_info_wnd"
+        style="width:100%;height:100%;position: absolute;left:-6000px;display: flex;align-items: center;justify-content: center;background-color: rgba(0,0,0,0.3);">
+        <div id="customer_info"
+            style="color:rgb(201,201,201);width:50%;height:50%;background-color: rgb(20,20,20);  box-shadow: 0px 0px 18px rgb(218, 215, 215);border-radius: 8px;">
+            <div class="customer_info_line" style="color:rgb(200,100,100);">
+                填写您的信息后，点击确定，下载软件安装包
+            </div>
+            <div class="customer_info_line">
+                <span>姓名:</span><input id="name"></input>
+            </div>
+            <div class="customer_info_line">
+                <span>公司:</span><input id="company"></input>
+            </div>
+            <div class="customer_info_line">
+                <span>职务:</span><input id="role"></input>
+            </div>
+            <div class="customer_info_line">
+                <span>行业:</span><input id="area"></input>
+            </div>
+            <div class="customer_info_line">
+                <span>手机号:</span><input id="phoneNum"></input>
+            </div>
+            <div class="customer_info_line">
+                <span>验证码:</span><input id="verifyCode" style="width:130px"></input>&nbsp;&nbsp;&nbsp;&nbsp;<button
+                    onclick="onClickGetValidationCode()">获取验证码</button>
+            </div>
+            <div class="customer_info_line" style="justify-content: center;margin-top: 30px;">
+                <button onclick="onClickOkCustomerInfo()">确定</button>&nbsp;&nbsp;&nbsp;&nbsp;<button
+                    onclick="onClickCancelCustomerInfo()">取消</button>
+            </div>
+        </div>
+    </div>
+    <a style="display: none;" id="downloadHelper" download=""></a>
+    <script src="assets/js/jquery-3.4.1.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="./main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="80mm"
+   viewBox="0 0 210 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ext.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="438.10848"
+     inkscape:cy="259.22156"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <rect
+       style="opacity:1;fill:#9bfff3;fill-opacity:1;stroke:none;stroke-width:0.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="48.216087"
+       height="52.538879"
+       x="9.5052242"
+       y="232.02794" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.20582628px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.1556"
+       y="232.46085"
+       id="text819"
+       transform="scale(0.93602705,1.0683452)"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="21.1556"
+         y="232.46085"
+         style="stroke-width:0.26458332">SAP 平台</tspan></text>
+    <rect
+       style="opacity:1;fill:#9bfff3;fill-opacity:1;stroke:none;stroke-width:0.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-0-2"
+       width="32.446796"
+       height="23.527353"
+       x="82.355263"
+       y="231.8642" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.20582628px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.722916"
+       y="227.12488"
+       id="text819-2-5"
+       transform="scale(0.93602705,1.0683452)"><tspan
+         sodipodi:role="line"
+         x="99.722916"
+         y="227.12488"
+         style="stroke-width:0.26458332"
+         id="tspan926">ext</tspan></text>
+    <rect
+       style="opacity:1;fill:#9bfff3;fill-opacity:1;stroke:none;stroke-width:0.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-0-2-5"
+       width="44.763771"
+       height="18.071815"
+       x="153.58839"
+       y="234.84952" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.38670158px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="163.66348"
+       y="235.69089"
+       id="text819-2-5-6"
+       transform="scale(0.96010624,1.0415514)"><tspan
+         sodipodi:role="line"
+         id="tspan817-5-8-1"
+         x="163.66348"
+         y="235.69089"
+         style="stroke-width:0.26458332">xxx_service</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.51080918px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="105.70474"
+       y="216.03117"
+       id="text819-2-5-9"
+       transform="scale(0.86772865,1.152434)"><tspan
+         sodipodi:role="line"
+         x="105.70474"
+         y="216.03117"
+         style="stroke-width:0.26458332"
+         id="tspan926-1">插件接口</tspan></text>
+    <rect
+       style="opacity:0.97000002;fill:#f092e2;fill-opacity:0.71764706;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:2.11999999, 2.11999999;stroke-dashoffset:0;stroke-opacity:0.96551723"
+       id="rect835"
+       width="45.744205"
+       height="24.545361"
+       x="10.570197"
+       y="258.81171" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.91247749px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.662651"
+       y="264.39618"
+       id="text819-4"
+       transform="scale(0.97164732,1.02918)"><tspan
+         sodipodi:role="line"
+         id="tspan817-4"
+         x="24.662651"
+         y="264.39618"
+         style="stroke-width:0.26458332">SAP API</tspan></text>
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.36969569;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4"
+       width="0.37559775"
+       height="16.700174"
+       x="-250.18762"
+       y="115.97282"
+       transform="matrix(0.2236736,-0.97466411,0.99999991,4.2138087e-4,0,0)" />
+    <path
+       style="fill:none;fill-opacity:0.47593581;stroke:#53f800;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.54432,239.21288 -7.46131,4.80054 7.5372,4.86047 z"
+       id="path948-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.36544096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-1"
+       width="0.31668344"
+       height="4.866725"
+       x="174.03891"
+       y="170.31013"
+       transform="matrix(-0.43337783,0.90121233,0.86895748,0.49488675,0,0)" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.36541039;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-1-1"
+       width="0.31661311"
+       height="4.8669906"
+       x="247.51501"
+       y="-86.496643"
+       transform="matrix(0.5882677,0.80866626,0.84624558,-0.53279303,0,0)" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.37469709;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-5"
+       width="0.38582888"
+       height="24.222528"
+       x="-257.42386"
+       y="207.23541"
+       transform="matrix(0.31582132,-0.94881868,0.99999996,2.9052039e-4,0,0)" />
+    <rect
+       style="opacity:1;fill:#9bfff3;fill-opacity:1;stroke:none;stroke-width:0.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-0-2-5-5"
+       width="44.763771"
+       height="18.071815"
+       x="154.21631"
+       y="263.55704" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.38670158px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.31749"
+       y="263.25314"
+       id="text819-2-5-6-0"
+       transform="scale(0.96010624,1.0415514)"><tspan
+         sodipodi:role="line"
+         id="tspan817-5-8-1-2"
+         x="164.31749"
+         y="263.25314"
+         style="stroke-width:0.26458332">ss_alarm_service</tspan></text>
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.368256;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-5-2"
+       width="0.37267801"
+       height="13.87673"
+       x="-277.34814"
+       y="189.58723"
+       transform="matrix(0.18731391,-0.98230011,0.99999987,5.0711728e-4,0,0)" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.37729776;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-5-2-0"
+       width="0.3906557"
+       height="27.610924"
+       x="146.50572"
+       y="193.13525"
+       transform="matrix(0.93616269,0.35156708,8.2103942e-4,0.99999966,0,0)" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.45424062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-7"
+       width="0.56703919"
+       height="88.374947"
+       x="427.02982"
+       y="-477.16672"
+       transform="matrix(-0.76290709,0.64650813,-0.9999994,0.00109186,0,0)" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.36544085;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-1-8"
+       width="0.31668556"
+       height="4.8666887"
+       x="-210.56931"
+       y="-179.92888"
+       transform="matrix(0.42779537,-0.90387561,-0.87200668,-0.48949398,0,0)" />
+    <rect
+       style="opacity:1;fill:#64f11b;fill-opacity:0.54901961;stroke:#53f800;stroke-width:0.3654103;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect946-4-1-1-0"
+       width="0.31661052"
+       height="4.8670287"
+       x="-266.98242"
+       y="108.48262"
+       transform="matrix(-0.59326048,-0.80501056,-0.84292904,0.53802476,0,0)" />
+  </g>
+</svg>

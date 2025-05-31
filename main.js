@@ -9,8 +9,7 @@ setStyleSheet_mode(uiMode);
 
 fetchFileNames();
 
-let fileUrl = 'http://202.107.226.70:667/fmsPath/HJUpgrade/UpgradeList.ini'
-// let fileUrl = 'http://192.168.2.249:667' + '/fmsPath/HJUpgrade/UpgradeList.ini'
+let fileUrl = 'https://202.107.226.70:666/fmsPath/HJUpgrade/UpgradeList.ini'
 if (fileUrl) {
     fetchFileContent(fileUrl)
         .then(rlt => {
@@ -150,7 +149,7 @@ function onClickICPBeian() {
 function onClickTryTds() {
     var dom = document.getElementById("customer_info_wnd");
     dom.style.left = "-6000px"
-    let fileUrl = 'http://202.107.226.70:667/fmsPath/HJUpgrade/UpgradeList.ini'
+    let fileUrl = 'https://202.107.226.70:666/fmsPath/HJUpgrade/UpgradeList.ini'
     fetchFileContent(fileUrl)
         .then(rlt => {
             // console.log(rlt.data);
@@ -198,8 +197,7 @@ function getFilePath(rltData, key) {
     }
 }
 function fetchFileNames() {
-    const fileUrl = 'http://202.107.226.70:667/fmsPath/HJUpgrade/UpgradeList.ini';
-    // const fileUrl = 'http://192.168.2.249:667' + '/fmsPath/HJUpgrade/UpgradeList.ini';)
+    const fileUrl = 'https://202.107.226.70:666/fmsPath/HJUpgrade/UpgradeList.ini';
     fetchFileContent(fileUrl)
         .then(rlt => {
             const extractAndConvertPath = (key) => {
@@ -220,7 +218,7 @@ function fetchFileNames() {
 function convertPathToUrl(localPath) {
     if (localPath) {
         // 服务器地址
-        const baseUrl = 'http://202.107.226.70:667/';
+        const baseUrl = 'https://202.107.226.70:666/';
         let relativePath;
         // 检查是否为绝对路径
         if (localPath.startsWith('E:\\FTP\\')) {
@@ -267,7 +265,7 @@ function callRPC(method, params, onReturn) {
         id: 1,
     };
 
-    fetch('http://202.107.226.70:667/rpc', {
+    fetch('https://202.107.226.70:666/rpc', {
         method: "POST",
         headers: {
             //  'Content-Type': 'application/json',

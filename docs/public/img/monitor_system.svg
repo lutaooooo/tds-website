@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="70mm"
+   viewBox="0 0 210 70"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="monitor_system.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="202.78423"
+       y="215.41369"
+       width="202.02827"
+       height="75.40625"
+       id="rect2863" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#6d34e8;stroke-width:1pt;stroke-opacity:1;fill:#6d34e8;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2261" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#6d34e8;stroke-width:1pt;stroke-opacity:1;fill:#6d34e8;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2258" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#6d34e8;fill-opacity:1;fill-rule:evenodd;stroke:#6d34e8;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2258-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#6d34e8;fill-opacity:1;fill-rule:evenodd;stroke:#6d34e8;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2261-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#6d34e8;fill-opacity:1;fill-rule:evenodd;stroke:#6d34e8;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2258-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#6d34e8;fill-opacity:1;fill-rule:evenodd;stroke:#6d34e8;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2261-2" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="409.10033"
+     inkscape:cy="213.72657"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-147)">
+    <g
+       id="g824-0-2"
+       transform="matrix(0.34298686,0,0,0.31880757,17.454319,151.98034)"
+       style="stroke-width:2.47213" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1001"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#786200;fill-opacity:1;stroke:none"
+       transform="matrix(0.22596084,0,0,0.20703261,0.70593224,147.6357)"><flowRegion
+         id="flowRegion1003"
+         style="fill:#786200;fill-opacity:1"><rect
+           id="rect1005"
+           width="285"
+           height="242.85715"
+           x="314.28571"
+           y="383.3577"
+           style="fill:#786200;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara1007">zhuanzhjiji </flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1009"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#97a3da;fill-opacity:1;stroke:none"
+       transform="matrix(0.22596084,0,0,0.20703261,0.70593224,147.6357)"><flowRegion
+         id="flowRegion1011"
+         style="fill:#97a3da;fill-opacity:1"><rect
+           id="rect1013"
+           width="213.57143"
+           height="172.85715"
+           x="395.71429"
+           y="311.92914"
+           style="fill:#97a3da;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara1015">zhuan转辙机 </flowPara></flowRoot>
+    <path
+       style="opacity:0.97;fill:#8eda6b;fill-opacity:1;stroke:#00c400;stroke-width:0.256438px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.627645,172.993 59.23869,-0.22588"
+       id="path1121"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.97;fill:#8eda6b;fill-opacity:1;stroke:#00c400;stroke-width:0.1185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.866335,172.76712 -0.0068,17.56424"
+       id="path1121-4-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.97;fill:#8eda6b;fill-opacity:1;stroke:#00c400;stroke-width:0.250645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.849681,181.58407 22.715369,0.0169"
+       id="path1121-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#6dc36f;fill-opacity:1;stroke:none;stroke-width:0.34721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927-2-3-6"
+       width="7.2559638"
+       height="8.8146152"
+       x="103.51598"
+       y="177.18529" />
+    <path
+       style="opacity:0.97;fill:#8eda6b;fill-opacity:1;stroke:#00c400;stroke-width:0.251688px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.57859,181.53742 22.90358,-0.22602"
+       id="path1121-3-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#6dc36f;fill-opacity:1;stroke:none;stroke-width:2.08641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927-2-3-6-9"
+       width="69.245613"
+       height="33.352261"
+       x="125.2346"
+       y="165.86415" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.79896px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#72d000;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="92.730728"
+       y="186.18192"
+       id="text1463"
+       transform="scale(0.97696342,1.0235798)"><tspan
+         sodipodi:role="line"
+         id="tspan1461"
+         x="92.730728"
+         y="186.18192"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688">Modbus转TCP网关</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.6546px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#72d000;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="170.47191"
+       y="138.57367"
+       id="text1463-9"
+       transform="scale(0.87723023,1.1399516)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-0"
+         x="170.47191"
+         y="138.57367"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688">物联网监控平台</tspan><tspan
+         sodipodi:role="line"
+         x="170.47191"
+         y="143.23396"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688"
+         id="tspan1190">       服务器</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#72d000;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="5.7339511"
+       y="158.17781"
+       id="text1463-5"
+       transform="scale(0.93360781,1.0711136)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-5"
+         x="5.7339511"
+         y="158.17781"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688">火焰状态采集设备</tspan></text>
+    <rect
+       style="opacity:1;fill:#6dc36f;fill-opacity:1;stroke:none;stroke-width:0.360432;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927-2-3-9-2"
+       width="12.119148"
+       height="1.9181188"
+       x="9.5086174"
+       y="171.92831" />
+    <rect
+       style="opacity:1;fill:#6dc36f;fill-opacity:1;stroke:none;stroke-width:0.262593;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927-2-3-9-2-8"
+       width="3.5876389"
+       height="3.4391918"
+       x="34.970798"
+       y="188.66429" />
+    <path
+       style="opacity:0.97;fill:#8eda6b;fill-opacity:1;stroke:#00c400;stroke-width:0.442709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.554217,190.26128 42.255112,-0.0155"
+       id="path1121-8-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63341px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#72d000;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="42.963284"
+       y="175.05562"
+       id="text1463-5-9"
+       transform="scale(0.93360781,1.0711136)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-5-1"
+         x="42.963284"
+         y="175.05562"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688">气阀控制设备</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63341px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60f0f;fill-opacity:1;stroke:none;stroke-width:0.251689"
+       x="12.409263"
+       y="167.21944"
+       id="text1463-5-4"
+       transform="scale(0.93360781,1.0711136)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-5-9"
+         x="12.409263"
+         y="167.21944"
+         style="fill:#e60f0f;fill-opacity:1;stroke-width:0.251689">IO设备</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63341px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60f0f;fill-opacity:1;stroke:none;stroke-width:0.251689"
+       x="48.983597"
+       y="182.36497"
+       id="text1463-5-4-4"
+       transform="scale(0.93360781,1.0711136)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-5-9-1"
+         x="48.983597"
+         y="182.36497"
+         style="fill:#e60f0f;fill-opacity:1;stroke-width:0.251689">IO设备</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63341px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60f0f;fill-opacity:1;stroke:none;stroke-width:0.251689"
+       x="107.24111"
+       y="182.2072"
+       id="text1463-5-4-4-0"
+       transform="scale(0.93360781,1.0711136)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-5-9-1-2"
+         x="107.24111"
+         y="182.2072"
+         style="fill:#e60f0f;fill-opacity:1;stroke-width:0.251689">IO网关</tspan></text>
+    <rect
+       style="opacity:1;fill:#6d34e8;fill-opacity:1;stroke:none;stroke-width:0.728498;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927-2-3-6-4"
+       width="31.942217"
+       height="8.8146152"
+       x="129.05835"
+       y="176.67949" />
+    <rect
+       style="opacity:1;fill:#6d34e8;fill-opacity:1;stroke:none;stroke-width:0.536786;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect927-2-3-6-4-4-3"
+       width="12.79049"
+       height="11.951632"
+       x="173.30202"
+       y="175.5387" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.79895px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#72d000;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="180.33777"
+       y="178.54308"
+       id="text1463-8"
+       transform="scale(0.97696341,1.0235798)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-2"
+         x="180.33777"
+         y="178.54308"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688">TDS</tspan></text>
+    <path
+       style="fill:none;stroke:#6d34e8;stroke-width:0.227265px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:url(#Arrow1Lend)"
+       d="m 165.34801,178.90655 h 5.93463"
+       id="path2256" />
+    <path
+       style="fill:none;stroke:#6d34e8;stroke-width:0.227265px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-2);marker-mid:url(#Arrow1Lend-5)"
+       d="m 171.18738,183.15316 -5.93457,-0.0277"
+       id="path2256-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63341px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60f0f;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="186.09071"
+       y="180.43161"
+       id="text1463-5-4-4-0-3"
+       transform="scale(0.9336078,1.0711136)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-5-9-1-2-7"
+         x="186.09071"
+         y="180.43161"
+         style="fill:#e60f0f;fill-opacity:1;stroke-width:0.251688">数据服务</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.79895px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#72d000;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="133.09027"
+       y="178.40395"
+       id="text1463-8-4"
+       transform="scale(0.9769634,1.0235798)"><tspan
+         sodipodi:role="line"
+         id="tspan1461-2-4"
+         x="133.09027"
+         y="178.40395"
+         style="fill:#72d000;fill-opacity:1;stroke-width:0.251688">Modbus通讯服务</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2861"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2863);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.85402521,0,0,0.78248545,0.70593224,32.610334)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.63342px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e60f0f;fill-opacity:1;stroke:none;stroke-width:0.251688"
+       x="149.2027"
+       y="178.55913"
+       id="text1463-5-4-4-0-3-9"
+       transform="scale(0.93360779,1.0711136)"><tspan
+         id="tspan1461-5-9-1-2-7-0"
+         x="149.2027"
+         y="178.55913"
+         style="fill:#e60f0f;fill-opacity:1;stroke-width:0.251688"
+         sodipodi:role="line">IO服务</tspan></text>
+  </g>
+</svg>

@@ -86,6 +86,24 @@
 <script setup>
 </script>
 
+<style>
+.clip {
+  background: var(--vp-home-hero-name-background);
+  background-image: -webkit-linear-gradient(120deg, rgb(0, 140, 255) 30%, rgb(4, 249, 200)) !important;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: var(--vp-home-hero-name-color);
+}
+
+</style>
 <style scoped>
 .home-custom-component .section {
   position: relative;
@@ -133,22 +151,6 @@
 
 .home-custom-component .feature-item {
   margin-bottom: 40px;
-}
-
-.clip {
-  background: var(--vp-home-hero-name-background);
-  background-image: -webkit-linear-gradient(120deg, rgb(189, 52, 254) 30%, rgb(65, 209, 255));
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-clip: initial;
-  background-color: initial;
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: var(--vp-home-hero-name-color);
 }
 
 .custom-footer {

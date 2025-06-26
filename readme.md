@@ -10,10 +10,14 @@ https://vitepress.dev/zh/guide/markdown#header-anchors
 ## 运行
 
 Node.js 18 及以上版本
-
+```
 npm install
+npm run docs:dev
+```
 
 # 路由
+
+在 ```docs/.vitepress/config.mjs```下配置新增文件的路径，图片等静态资源放在 ```public```目录下
 
 生成的 HTML 页面是从源 Markdown 文件的目录结构映射而来的
 

@@ -185,37 +185,40 @@ Run the code online with this jsfiddle. Dependent upon an open source js library
 }
 ```
 
-**参数**
-
-**tag**="" `string` 指定需要获取的对象的位号。空字符串表示根节点。*表示任意1-n个字符
-
-**getConf** = true `bool` 是否获取配置信息。只需实时数据，设为false以减少轮询数据大小。
-
-**getChild**= false `bool` 是否获取子对象。
-
-**getMp** = false`bool` 是否在监控对象树中携带监控点
-
-**getStatus** = false `'bool'` 是否在监控对象中携带报警状态、数据更新时间、在线离线等运行时属性
+获取整个监控对象树
+```json
+{
+    "jsonrpc": "2.0",
+    "method": "getObj",
+    "params": {
+        "tag": "",
+        "getChild": true,
+        "getMp": true
+    }
+}
+```
+**基础参数**
+| 参数    |      类型      | 功能描述 |
+| :----------- | :----------- | :---- |
+|**tag**=""| `string` |指定需要获取的对象的位号。空字符串表示根节点。*表示任意1-n个字符|
+| **getConf** = true | `bool`  |是否获取配置信息。只需实时数据，设为false以减少轮询数据大小。|
+|**getChild**= false| `bool`| 是否获取子对象。|
+|**getMp** = false|`bool` |是否在监控对象树中携带监控点|
+|**getStatus** = false| `'bool'` |是否在监控对象中携带报警状态、数据更新时间、在线离线等运行时属性|
 
 **高级参数**  *(确认理解对象树及其查询的基本概念后使用，一般缺省即可)* 
 
-**rootTag** = '' `string` 指定返回对象根节点位号。默认为根节点。使用rootTag后，所有对象的位号都会以相对rootTag的相对位号来表示。
-
-**level**="*"`string` 指定返回对象的层级，可选`org`,`mo`,`mp`
-
-**type** = "*" `string` 指定返回的对象类型。默认所有类型。
-
-**flatten**=false `bool` 是否将多层级的树形子节点压缩为只有一个层级的列表。
-
-**withMp**="温度,湿度"`string` 子节点包含指定监控点名称的对象才返回
-
-**withoutMp**="温度,湿度"`string` 子节点不包含指定监控点名称的对象才返回
-
-**withDevType**="gap,power"`string` 子节点包含指定监控点名称的对象才返回
-
-**withoutDevType**="gap,power"`string` 子节点不包含指定监控点名称的对象才返回
-
-**leafLevel** = 'mo' `string` 指定返回对象树的叶子节点的对象类型。默认“mo”类型。
+| 参数    |      类型      | 功能描述 |
+| :----------- | :----------- | :---- |
+|**rootTag** = '' |`string` |指定返回对象根节点位号。默认为根节点。使用rootTag后，所有对象的位号都会以相对rootTag的相对位号来表示。|
+|**level**="*"|`string` |指定返回对象的层级，可选`org`,`mo`,`mp`|
+|**type** = "*" |`string` |指定返回的对象类型。默认所有类型。|
+|**flatten**=false |`bool` |是否将多层级的树形子节点压缩为只有一个层级的列表。|
+|**withMp**="温度,湿度"|`string`| 子节点包含指定监控点名称的对象才返回|
+|**withoutMp**="温度,湿度"|`string` |子节点不包含指定监控点名称的对象才返回|
+|**withDevType**="gap,power"|`string` |子节点包含指定监控点名称的对象才返回|
+|**withoutDevType**="gap,power"|`string` |子节点不包含指定监控点名称的对象才返回|
+|**leafLevel** = 'mo'| `string` |指定返回对象树的叶子节点的对象类型。默认“mo”类型。|
 
 可选：
 
@@ -1627,14 +1630,36 @@ time字段可以缺省，报警时间使用收到报警的时间
 
 以下通知事件会通知给TDS的客户端
 
-#### 报警产生通知 【onAlarmAdd】
+#### 报警更新通知通知 【onAlarmupdate】
 
-像报警服务添加报警
+更新报警通知
 
 ```json
 {
     "jsonrpc": "2.0", 
-    "method": "onAddAlarm", 
+    "method": "onAlarmUpdate", 
+    "ioAddr": "192.168.2.83:10081",
+    "params": {
+         "time":"2023-08-08 11:12:23",
+         "desc": "报警更新",
+         "level": "L3",
+         "tag": "1#.直尖轨段1",
+         "type": "DJ1脱落",
+         "needRecover": true,
+         "multiUnack": false
+    }
+}
+```
+将level从L3改为normal，可以恢复报警
+
+#### 报警产生通知 【onAlarmAdd】
+
+向报警服务添加报警
+
+```json
+{
+    "jsonrpc": "2.0", 
+    "method": "onAlarmAdd", 
     "params": {
          "time":"2023-08-08 11:12:23",
          "desc": "感烟探测器报警,回路:69,设备地址:01",

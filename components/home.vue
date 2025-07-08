@@ -75,6 +75,7 @@
           </div>
           <div class="feature-item">
             <p class="sub-title clip">本地控制</p>
+            <p>全Web端设备接入组态，基于javaScript的自动控制脚本</p>
           </div>
         </div>
       </div>

@@ -317,6 +317,96 @@ TDS已经自带了组态的页面，如果您需要自主开发组态的页面�
 }
 ```
 
+设置整个监控对象树
+```json
+{
+    "children": [
+        {
+            "name": "监控对象",
+            "level": "mo",
+            "defaultVal": "",
+            "children": [
+                {
+                    "name": "监控点1",
+                    "level": "mp",
+                    "saveInterval": {
+                        "hour": 0,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "alarmLimit": {
+                        "enableHigh": false,
+                        "high": 0,
+                        "enableLow": false,
+                        "low": 0
+                    },
+                    "validRange": {
+                        "enable": false,
+                        "min": 0,
+                        "max": 0
+                    },
+                    "defaultVal": "",
+                    "k": 1,
+                    "b": 0
+                },
+                {
+                    "name": "监控点2",
+                    "level": "mp",
+                    "saveInterval": {
+                        "hour": 0,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "alarmLimit": {
+                        "enableHigh": false,
+                        "high": 0,
+                        "enableLow": false,
+                        "low": 0
+                    },
+                    "validRange": {
+                        "enable": false,
+                        "min": 0,
+                        "max": 0
+                    },
+                    "defaultVal": "",
+                    "k": 1,
+                    "b": 0
+                },
+                {
+                    "name": "监控点3",
+                    "level": "mp",
+                    "saveInterval": {
+                        "hour": 0,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "alarmLimit": {
+                        "enableHigh": false,
+                        "high": 0,
+                        "enableLow": false,
+                        "low": 0
+                    },
+                    "validRange": {
+                        "enable": false,
+                        "min": 0,
+                        "max": 0
+                    },
+                    "defaultVal": "",
+                    "k": 1,
+                    "b": 0,
+                    "ioType": "v",
+                    "expression": "(val(\"监控点1\") + val(\"监控点2\"))/2"
+                }
+            ]
+        }
+    ],
+    "name": "组织结构",
+    "level": "root",
+    "defaultVal": "",
+    "tag": ""
+}
+```
+
 ### 设置监控点参考曲线【setRefCurve】
 
 **请求**
@@ -393,6 +483,18 @@ TDS已经自带了组态的页面，如果您需要自主开发组态的页面�
 ## IO设备组态命令
 
 ### 设置设备信息 【getDev】
+```json
+{
+    "jsonrpc": "2.0",
+    "method": "getDev",
+    "params": {
+        "getStatus": true,
+        "pageSize": 20,
+        "pageNo": 1,
+        "getStatis": true
+    }
+}
+```
 
 ### 设置设备信息 【setDev】
 
@@ -533,6 +635,41 @@ TDS已经自带了组态的页面，如果您需要自主开发组态的页面�
 ### 设置设备信息 【deleteDev】
 
 ### 设置设备信息 【addDev】
+
+```json
+{
+    "jsonrpc": "2.0",
+    "method": "addDev",
+    "params": {
+        "name": [
+            "智能设备",
+            "TDSP设备"
+        ],
+        "level": "device",
+        "type": "tdsp-device",
+        "parent_type": "tds",
+        "typeLabel": "TDSP设备",
+        "addr": {
+            "id": "",
+            "ip": "192.168.2.83",
+            "port": 10081
+        },
+        "child_type": "channel",
+        "online": false,
+        "manageStatus": "managed",
+        "modified": false,
+        "children": [],
+        "nodeID": "6cb5e055-5087-4aab-9a7f-ae31f2a24bd9",
+        "parentID": null,
+        "channels": [],
+        "addrType": "tcpClient"
+    },
+    "id": 32,
+    "language": "zh",
+    "user": "admin",
+    "token": "c6c56417-2f86-4ace-\u00001c1-c97cdb7b2b4d"
+}
+```
 
 ## 用户组态命令
 
